@@ -1,0 +1,12 @@
+{
+  "name": "agla-men-alyaqout",
+  "title": "أغلى من الياقوت",
+  "artist": "أحمد مكي",
+  "author": "جنى",
+  "description": "لعبة إيقاع على أنغام أغنية أغلى من الياقوت - مستوحاة من Project Sekai",
+  "version": 1,
+  "engine": "project-sekai",
+  "cover": "Agla_Men_AlYaqout.png",
+  "bgm": "Agla_Men_AlYaqout.mp3",
+  "data": "Agla_Men_AlYaqout.chart.json"
+}
